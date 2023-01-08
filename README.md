@@ -1,8 +1,8 @@
-# super-octo-happiness
+# heading 1
 
-## step one
+## heading 2
 
-## step two
+## heading 3
 
 normal text
 

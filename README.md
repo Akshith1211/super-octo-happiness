@@ -2,7 +2,7 @@
 
 ## heading 2
 
-## heading 3
+### heading 3
 
 normal text
 
